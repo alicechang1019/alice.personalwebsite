@@ -173,3 +173,14 @@
     right: 0%;
     bottom: 0%;
   }
+
+  /* footer */
+  footer#footer {
+    background-color: #EFE5DC;
+    padding: 25px 0px;
+    margin-top: 120px;
+    text-align: center;
+  }
+  footer#footer h6 {
+    margin: 0px;
+  }
